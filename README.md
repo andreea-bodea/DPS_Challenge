@@ -6,13 +6,17 @@ Dataset: “Monatszahlen Verkehrsunfälle” from the München Open Data Portal 
 Mission 1: Create an AI Model (code in Jupyter Notebook DPS_Challenge_Mission1.ipynb)
 - downloaded the dataset
 - visualized historically the number of accidents per category (column1)
+  ![Visualization](https://github.com/andreea-bodea/DPS_Challenge/assets/58235076/ea3ba670-8591-40aa-a1a0-745ab7f69ffc)
+
 - created an application that forecasts the values for:
 Category: 'Alkoholunfälle'
 Type: 'insgesamt'
 Year: '2021'
 Month: '01'
 using Linear Regression
-- tested the prediction model and visualized the results 
+- tested the prediction model and visualized the results
+  ![Prediction](https://github.com/andreea-bodea/DPS_Challenge/assets/58235076/d232d18d-feb0-4f9d-bc7e-155035a41f79)
+
 
 
 Mission 2: Publish your source code & deploy
