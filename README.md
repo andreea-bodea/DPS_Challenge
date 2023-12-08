@@ -26,8 +26,8 @@ Mission 2: Publish your source code & deploy
 and returns the applications prediction in the following format: 
 {
 "prediction":value
-
 }
+
 Mission 3: Send the URL of the work
 - made a POST request to the URL https://dps-challenge.netlify.app/.netlify/functions/api/challenge
 Body: 
